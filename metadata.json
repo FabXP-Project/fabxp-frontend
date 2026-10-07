@@ -1,0 +1,7 @@
+{
+  "name": "Fabxp — Live Your Experience",
+  "description": "Curated travel experiences, boutique stays, flights, and customized journeys designed to be felt, not rushed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
