@@ -1,9 +1,6 @@
 import type { Metadata } from 'next';
 import { ClerkProvider } from '@clerk/nextjs';
 import { Plus_Jakarta_Sans, Playfair_Display } from 'next/font/google';
-// The CSS file is processed by Next.js; TypeScript does not need to type-check
-// this side-effect import.
-// @ts-expect-error Next.js handles the global stylesheet import at build time.
 import './globals.css';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
